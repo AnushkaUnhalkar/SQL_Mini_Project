@@ -1,2 +1,2 @@
-# SQL_Mini_Project
-A mini project based on SQL Commands.
+# MySQL_Mini_Project
+A mini project based on MySQL Commands.
